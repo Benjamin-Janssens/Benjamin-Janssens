@@ -1,4 +1,4 @@
-<h1>Hello, I'm Ben! <br/>Junior Programmer</a>,Cybersecurity Student</a>,Junior Data Analyst
+<h1>Hello, I'm Ben! <br/>Junior Programmer</a>, Cybersecurity Student</a>, Junior Data Analyst
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
