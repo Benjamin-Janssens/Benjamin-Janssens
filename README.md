@@ -7,7 +7,7 @@
   - [Multiplication Generator](https://github.com/Benjamin-Janssens/Python_Projects/blob/main/Multiplication%20Generator.py)
   - [Caesars Cipher](https://github.com/Benjamin-Janssens/Python_Projects/blob/main/Caesar%20Cipher.py)
 - <b>Linux Installation guide for applications</b>
-  - [Prowlarr Installation guide via CLI]()
+  - [Prowlarr Installation guide via CLI](https://github.com/Benjamin-Janssens/Linux_installs/blob/main/Prowlarr_install_Ubuntu_CLI)
   - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
