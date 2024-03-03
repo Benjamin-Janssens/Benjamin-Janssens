@@ -9,29 +9,9 @@
 - <b>Linux Installation guide for applications</b>
   - [Prowlarr Installation guide via CLI](https://github.com/Benjamin-Janssens/Linux_installs/blob/main/Prowlarr_install_Ubuntu_CLI)
   - [ALFA AWUS036ACH Driver Install Kali Linux](https://github.com/Benjamin-Janssens/Linux_installs/blob/main/AWUS036ACH_Driver_Install) <b><i>(01/2024)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
-  - [JWipe (Disk Wiping Utility)]
-  - [Active Directory Bulk User Creation]
-  - [FIM (File Integrity Monitor)]
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)]
-  - [Ransomware Proof of Concept (Decrypter)]
-  - [Keylogger with Email Capability]
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+- <b>PowerShell/Windows</b>
+  - [Windows Active Directory Home Lab](https://github.com/Benjamin-Janssens/Windows/blob/main/Windows%20Active%20Directory%20Home%20Lab.docx)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/
 
 <!--
 **Benjamin-janssens/Benjamin-Janssens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
