@@ -11,7 +11,13 @@
   - [ALFA AWUS036ACH Driver Install Kali Linux](https://github.com/Benjamin-Janssens/Linux_installs/blob/main/AWUS036ACH_Driver_Install) <b><i>(01/2024)</b></i>
 - <b>PowerShell/Windows</b>
   - [Windows Active Directory Home Lab](https://github.com/Benjamin-Janssens/Windows/blob/main/Windows%20Active%20Directory%20Home%20Lab.docx)
+- <b>Packet Tracer Network Simulations</b>
+  - [Corporate VLAN topology Basic](https://github.com/Benjamin-Janssens/Packet_Tracer/blob/main/Basic%20VLAN%20packet%20tracer.pkt)
+<h2>📑Research Reports </h2>
 
+- <b>Cyber Attack Reports</b>
+  - [Optus Breach 2022](https://github.com/Benjamin-Janssens/Research_Reports/blob/main/Optus%20Breach%20Research%20Report.docx)
+  - [SolarWinds 2020 Supply Chain Attack](https://github.com/Benjamin-Janssens/Research_Reports/blob/main/SolarWinds%20Report.docx)
 
 <!--
 **Benjamin-janssens/Benjamin-Janssens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
