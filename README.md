@@ -10,7 +10,7 @@
   - [Prowlarr Installation Guide via CLI](https://github.com/Benjamin-Janssens/Linux_installs/blob/main/Prowlarr_install_Ubuntu_CLI)
   - [ALFA AWUS036ACH Driver Install Kali Linux](https://github.com/Benjamin-Janssens/Linux_installs/blob/main/AWUS036ACH_Driver_Install) <b><i>(01/2024)</b></i>
 - <b>🥷 Penetration Testing</b>
-  - [WiFi scanning, Capturing and Cracking WPA2 Hash with Wireshark & the Aircrack Suite\(Aircrack-ng, Airmon-ng, Airodump-ng)](https://github.com/Benjamin-Janssens/Penetration_Testing/blob/main/Airodump-NG-Aircrack-NG.docx)
+  - [WiFi scanning, Capturing and Cracking WPA2 Hash with Wireshark & the Aircrack Suite\(Aircrack-ng, Airmon-ng, Airodump-ng)](https://github.com/Benjamin-Janssens/Penetration_Testing/blob/main/Airodump-NG-Aircrack-NG.pdf)
 - <b>🏢 PowerShell/Windows</b>
   - [Windows Active Directory Home Lab](https://github.com/Benjamin-Janssens/Windows/blob/main/Windows%20Active%20Directory%20Home%20Lab.docx)
   - [Asymmetric encryption using XCA, Digital Certificate and Key Generation](https://github.com/Benjamin-Janssens/Windows/blob/main/Creating%20Digital%20Certificates%20and%20Private%20Keys.docx)
