@@ -17,7 +17,7 @@
 - <b>📶 Packet Tracer Network Simulations</b>
   - [Corporate VLAN topology Basic](https://github.com/Benjamin-Janssens/Packet_Tracer/blob/main/Basic%20VLAN%20packet%20tracer.pkt)
 - <b>🕸 SIEM Home Lab </b>
-  - [XAMPP Web Server, SIEM Configured for XSS and SQLI Attacks via Splunk](https://github.com/Benjamin-Janssens/Windows/blob/main/SIEM%20Home%20Lab.docx)
+  - [XAMPP Web Server, SIEM Configured for XSS and SQLI Attacks via Splunk](https://github.com/Benjamin-Janssens/Windows/blob/main/SIEM%20Home%20Lab.pdf)
 <h2>📑 Research Reports </h2>
 
 - <b>Cyber Attack Reports</b>
