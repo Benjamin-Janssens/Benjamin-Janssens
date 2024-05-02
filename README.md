@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Ben! <br/>Junior Programmer</a>, Cybersecurity Student</a>, Junior Data Analyst,<br/> Linux Hobbyist
+<h1>Hello there, I'm Ben! <br/>Junior Programmer</a>, Cybersecurity Student</a>, Tier 1 SOC Analyst,<br/> Linux Hobbyist
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -23,7 +23,7 @@
 - <b>Cyber Attack Reports</b>
   - [Optus Breach 2022](https://github.com/Benjamin-Janssens/Research_Reports/blob/main/Optus%20Breach%20Research%20Report.docx)
   - [SolarWinds 2020 Supply Chain Attack](https://github.com/Benjamin-Janssens/Research_Reports/blob/main/SolarWinds%20Report.docx)
-
+</html>
 <!--
 **Benjamin-janssens/Benjamin-Janssens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
