@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Ben! <br/>SOC Analyst</a>, Security Enthusiast</a>, Cybersecurity Pilgrim<br/> Linux Hobbyist
+<h1>Hello there, I'm Ben! <br/>SOC Analyst</a>, Cyber Security Consultant</a>, Privacy Enthusiast</a>, Cybersecurity Pilgrim<br/>
 <h2>SOC Analyst at CyberCX </h2>
 
 
