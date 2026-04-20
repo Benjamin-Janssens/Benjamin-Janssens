@@ -10,7 +10,6 @@
   - [Multiplication Table Generator](https://github.com/Benjamin-Janssens/Python_Projects/blob/main/Multiplication%20Generator.py)
   - [Caesars Cipher Encryption/Decryption Tool](https://github.com/Benjamin-Janssens/Python_Projects/blob/main/Caesar%20Cipher.py)
 - <b>🛠 Linux Installation Guide for Applications/Hardware</b>
-  - [Prowlarr Installation Guide via CLI](https://github.com/Benjamin-Janssens/Linux_installs/blob/main/Prowlarr_install_Ubuntu_CLI)
   - [ALFA AWUS036ACH Driver Install Kali Linux](https://github.com/Benjamin-Janssens/Linux_installs/blob/main/AWUS036ACH_Driver_Install) <b><i>(01/2024)</b></i>
 - <b>🥷 Penetration Testing</b>
   - [WiFi scanning, Capturing and Cracking WPA2 Hash with Wireshark & the Aircrack Suite\(Aircrack-ng, Airmon-ng, Airodump-ng)](https://github.com/Benjamin-Janssens/Penetration_Testing/blob/main/Airodump-NG-Aircrack-NG.pdf)
@@ -19,8 +18,10 @@
   - [Asymmetric encryption using XCA, Public Key Infrastructure Generation](https://github.com/Benjamin-Janssens/Windows/blob/main/Creating%20Digital%20Certificates%20and%20Private%20Keys.docx)
 - <b>📶 Packet Tracer Network Simulations</b>
   - [Corporate VLAN topology Basic](https://github.com/Benjamin-Janssens/Packet_Tracer/blob/main/Basic%20VLAN%20packet%20tracer.pkt)
-- <b>🕸 SIEM Home Lab </b>
+- <b>🕸 SIEM Practice Demonstration Lab </b>
   - [XAMPP Web Server, SIEM Configured for XSS and SQLI Attacks via Splunk](https://github.com/Benjamin-Janssens/Windows/blob/main/SIEM%20Home%20Lab.pdf)
+- <b>🔥🧱 OPNSense Home Network </b>
+  - 
 <h2>🛡️ Security Analyst Write Ups</h2>
 
 - <b>📊Splunk Labs</b>
