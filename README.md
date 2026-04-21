@@ -1,7 +1,7 @@
 <h1>Hello there, I'm Ben! <br/>SOC Analyst</a>, Cyber Security Consultant</a>, Privacy Enthusiast</a>, Cybersecurity Pilgrim<br/>
 <h2>SOC Analyst at CyberCX </h2>
 
-<h2>🔥🧱 OPNSense Home Network </h2>
+<h2>🔥🧱 Proxmox/OPNSense Home Network </h2>
 
   <b>🖼️ Network Blueprint </b>
   - [Network Diagram, Hardware description, routing configuration](https://github.com/Benjamin-Janssens/OPNSense-Home-Network/blob/main/Network%20Diagram%20and%20Write%20Up.md)
