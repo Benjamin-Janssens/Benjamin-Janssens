@@ -18,13 +18,18 @@
 <h1>Hello there, I'm Ben! <br/>SOC Analyst</a>, Cyber Security Consultant</a>, Privacy Enthusiast</a>, Cybersecurity Pilgrim<br/>
 <h2>SOC Analyst at CyberCX </h2>
 
-<h2>🔥🧱 Proxmox/OPNSense Home Network </h2>
+<h2>
+  <a href="https://github.com/Benjamin-Janssens/OPNSense-Home-Network/tree/main">
+  🔥🧱 Proxmox/OPNSense Home Network 
+  </a>
+</h2>
 
   <b>🖼️ Network Blueprint </b>
   - [Network Diagram, Hardware description, routing configuration](https://github.com/Benjamin-Janssens/OPNSense-Home-Network/blob/main/Network%20Diagram%20and%20Write%20Up.md)
   - [OPNSense Firewall Config](https://github.com/Benjamin-Janssens/OPNSense-Home-Network/blob/main/OPNSense%20Firewall%20Config.md)
   - [UnboundDNS Config](https://github.com/Benjamin-Janssens/OPNSense-Home-Network/blob/main/UnboundDNS.md)
-<h2>👨‍💻 Personal Projects</h2>
+
+<h2>👨‍💻 Personal Projects </h2>
 
  <b>📊 Data Structures and Algorithms Practice</b>
   - [Paper, Scissors, Rock\(Interactive game)](https://github.com/Benjamin-Janssens/Python_Projects/blob/main/Paper%2C%20Scissors%2C%20Rock.py)
