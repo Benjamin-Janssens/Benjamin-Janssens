@@ -1,3 +1,20 @@
+![Proxmox](https://img.shields.io/badge/Proxmox-E7700E?style=for-the-badge&logo=proxmox&logoColor=orange)
+![OPNsense](https://img.shields.io/badge/OPNsense-D41D1D?style=for-the-badge&logo=opnsense&logoColor=red)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Splunk](https://img.shields.io/badge/Splunk-48BB78?style=for-the-badge&logo=Splunk&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white) 
+![Kali](https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=Kalilinux&logoColor=white) 
+![Proton VPN](https://img.shields.io/badge/Proton%20VPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white) 
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white) 
+![Proton VPN](https://img.shields.io/badge/Try%20Hack%20Me-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 <h1>Hello there, I'm Ben! <br/>SOC Analyst</a>, Cyber Security Consultant</a>, Privacy Enthusiast</a>, Cybersecurity Pilgrim<br/>
 <h2>SOC Analyst at CyberCX </h2>
 
