@@ -5,6 +5,7 @@
 
   <b>🖼️ Network Blueprint </b>
   - [Network Diagram, Hardware description, routing configuration](https://github.com/Benjamin-Janssens/OPNSense-Home-Network/blob/main/Network%20Diagram%20and%20Write%20Up.md)
+  - [OPNSense Firewall Config](https://github.com/Benjamin-Janssens/OPNSense-Home-Network/blob/main/OPNSense%20Firewall%20Config.md)
   - [UnboundDNS Config](https://github.com/Benjamin-Janssens/OPNSense-Home-Network/blob/main/UnboundDNS.md)
 <h2>👨‍💻 Personal Projects</h2>
 
